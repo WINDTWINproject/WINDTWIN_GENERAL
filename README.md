@@ -1,4 +1,4 @@
-**T5.1 - Offshore Wind Scouting Tool with GUI**
+**T5.1 - Offshore Wind Scouting Tool with Graphical User Interface**
 
 ------ Offshore Wind Scouting Tool (OWST) ------
 
